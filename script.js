@@ -44,3 +44,5 @@ buttons.forEach((button) => {
         }
     });
 });
+//fixed the code
+
